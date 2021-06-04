@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enyi Jiang / Hi there!"
+title                    : "Enyi Jiang (Olivia) / Hi there!"
 title_separator          : "-"
 name                     : &name "Enyi Jiang (Olivia)"
 description              : &description "personal description"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enyi Jiang"
+  name             : "Enyi Jiang (Olivia)"
   avatar           : "profile.png"
   bio              : "CS Graduate Student"
   location         : "Shenzhen, Guangzhou, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=h6YC9nwAAAAJ&hl=en"
   email            :  "enyij2@illinois.edu"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
