@@ -24,12 +24,12 @@ Work experience
   * Shenzhen, Guangdong, China
   * Work on Chinese word segmentation and related NLP applications.
   
-Skills
+<!-- Skills
 ======
 * Python, C++, C, System Verilog, R, Java
 * LaTex, OverLeaf, Matlab
 * Pytorch, Tensorflow
-<!-- * Skill 3 -->
+<!-- * Skill 3 --> 
 
 Publications
 ======
