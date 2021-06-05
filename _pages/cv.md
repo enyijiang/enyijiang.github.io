@@ -19,13 +19,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Dec 2020 - Present: Research Internship
+  * Tencent AI Lab 
+  * Guangdong, China
+  * Work on Chinese word segmentation and related NLP applications.
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2019: Research Internship
+  * NCSA, UIUC
+  * Illinois, US
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
@@ -41,8 +42,6 @@ Publications
 <!--   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-  
-Here is my [Google Scholar](https://scholar.google.com/citations?user=h6YC9nwAAAAJ&hl=en).
 
 Xuan Wang, Yingjun Guan, Weili Liu, Aabhas Chauhan, **Enyi Jiang**, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han, "EVIDENCEMINER: Textual Evidence Discovery for Life Sciences", in Proc. 2020 Annual Conf. of the Association for Computational Linguistics (ACL’20) ([System Demo](https://evidenceminer.firebaseapp.com/)), Seattle, WA, July 2020
 
