@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can checkout 
+You can check out my detailed CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf).
 
 Education
 ======
@@ -23,12 +23,6 @@ Work experience
   * Tencent AI Lab 
   * Guangdong, China
   * Work on Chinese word segmentation and related NLP applications.
-
-* Summer 2019: Research Internship
-  * NCSA, UIUC
-  * Illinois, US
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
