@@ -12,9 +12,9 @@ You can check out my detailed CV [here](https://enyijiang.github.io/files/Enyi_J
 
 Education
 ======
+* M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2020-2022 (expected)
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
-* M.S. in Computer Science, University of Illinois at Urbana-Champaign, 2020-2022 (expected)
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
