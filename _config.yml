@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enyi Jiang (Olivia)"
-  avatar           : "profile.png"
-  bio              : "CS Graduate Student"
+  name             : "Enyi Jiang (蒋恩奕)"
+  avatar           : "images/profile.jpeg"
+  bio              : "CS MS Student @ UIUC"
   location         : "Shenzhen, Guangzhou, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -94,15 +94,15 @@ author:
 #   codepen          :
 #   dribbble         :
 #   flickr           :
-  facebook         :
+  facebook         : "enyi.jiang"
 #   foursquare       :
   github           : "enyijiang"
 #   google_plus      :
 #   keybase          :
-  instagram        :
+  instagram        : "olivia_jiang1998"
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "enyi-jiang-16a561171"
 #   orcid            : "http://orcid.org/yourorcidurl"
 #   pinterest        :
 #   soundcloud       :
@@ -110,8 +110,8 @@ author:
 #   steam            :
 #   tumblr           :
   twitter          : "jiangenyi"
-#   vine             :
-  weibo            :
+#   vine             : 
+  weibo            : "2794566200"
 #   xing             :
 #   youtube          :
 #   wikipedia        :
