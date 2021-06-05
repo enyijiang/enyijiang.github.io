@@ -9,7 +9,7 @@ author_profile: true
 
 My Faith
 ======
-My family are all Christians so we **always** take the things of God most seriously. I went to church since I was very young and began serving God when I was 10.
+My family are all Christians so we **always** take the things of God most seriously. I went to church since I was very young and began serving God when I was 8.
 
 * From my primary school to middle school, I was a member of treble in a children choir. 
 * During my high school and most of my undergraduate period, I played keyboard in a teenager worship team.
