@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* Dec 2020 - Present: Research Internship
+* Dec 2020 - June 2021: Research Internship
   * Tencent AI Lab 
   * Shenzhen, Guangdong, China
   * Work on Chinese word segmentation and related NLP applications.
