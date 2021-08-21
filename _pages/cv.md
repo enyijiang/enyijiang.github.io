@@ -52,7 +52,9 @@ Teaching
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-
+• **CS 447** *Natural Language Processing* Teaching Assistant (Fall 2021)  
+  Instructor: [Prof. Julia Hockenmaier](https://juliahmr.cs.illinois.edu/)
+  
 • **CS 361** *Probability & Statistics for Computer Science* Teaching Assistant (Fall 2020)  
   Instructor: [Prof. Hongye Liu](https://cs.illinois.edu/about/people/department-faculty/hl314)
 
