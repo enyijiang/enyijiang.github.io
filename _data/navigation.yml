@@ -18,8 +18,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
   
-  - title: "Misc"
-    url: /misc/
+#   - title: "Misc"
+#     url: /misc/
     
 #   - title: "Guide"
 #     url: /markdown/
