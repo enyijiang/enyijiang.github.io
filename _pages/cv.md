@@ -16,13 +16,6 @@ Education
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-
-Work experience
-======
-* Dec 2020 - June 2021: Research Internship
-  * Tencent AI Lab 
-  * Shenzhen, Guangdong, China
-  * Work on Chinese word segmentation and related NLP applications.
   
 <!-- Skills
 ======
@@ -47,6 +40,13 @@ Shirui Luo, Jiahuan Cui, Madhu Vellakal, Jian Liu, **Enyi Jiang**, Seid Koric, V
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
+Work experience
+======
+* Dec 2020 - June 2021: Research Internship
+  * Tencent AI Lab 
+  * Shenzhen, Guangdong, China
+  * Work on Chinese word segmentation and related NLP applications.
+  
 Teaching
 ======
 <!--   <ul>{% for post in site.teaching %}
@@ -63,6 +63,7 @@ Teaching
  
 • **Math 213** *Discrete Structures* Teaching Assistant (Fall 2019)  
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
+
   
 Service and leadership
 ======
