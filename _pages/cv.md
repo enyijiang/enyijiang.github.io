@@ -66,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Worship team leader. Part-time piano player (record piano version of Christian/Pop music). Write stuffs from time to time. :)
+Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write stuffs from time to time. :) 
+
+[[Music Radio](https://music.163.com/#/djradio?id=960850566)][[Ongoing Album](https://music.163.com/#/album?id=156591140)] 
