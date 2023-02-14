@@ -30,7 +30,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-
+Enyi Jiang*, Jacky Y. Zhang*, Oluwasanmi O Koyejo. Federated Domain Adaptation via Gradient Projection. in submission to ICML 2023. [[arXiv Preprint](https://arxiv.org/abs/2302.05049)] 
 
 **Enyi Jiang**, Oluwasanmi O Koyejo. "Federated Domain Adaptation for Healthcare". *Under Review*.
 
