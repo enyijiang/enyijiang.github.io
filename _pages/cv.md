@@ -32,7 +32,7 @@ Recent Publications
 
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Federated Domain Adaptation via Gradient Projection. [[arXiv Preprint](https://arxiv.org/abs/2302.05049)] 
 
-**Enyi Jiang**, Ayis Pyrros, Oluwasanmi O Koyejo. "Federated Domain Adaptation for Healthcare". *Under Review*.
+**Enyi Jiang**, Ayis Pyrros, Oluwasanmi O Koyejo. Federated Domain Adaptation for Healthcare. *Under Review*.
 
 <!-- Xuan Wang, Yingjun Guan, Weili Liu, Aabhas Chauhan, **Enyi Jiang**, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han, "EVIDENCEMINER: Textual Evidence Discovery for Life Sciences", in Proc. 2020 Annual Conf. of the Association for Computational Linguistics (ACL’20) ([System Demo](https://evidenceminer.firebaseapp.com/)), Seattle, WA, July 2020
 
