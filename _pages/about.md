@@ -10,9 +10,7 @@ redirect_from:
 
 **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
 
-I am a Computer Science M.S.(with thesis) graduate student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>. I am interested in data heterogeneity, optimization, and security aspects of distributed machine learning for
-healthcare applications (e.g. biomedical imaging), with a recent focus on the federated domain adaptation
-(FDA) problem both empirically and theoretically.
+I am a Computer Science graduate student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>. My Master research concentrates on federated learning for healthcare applications, with a focus on federated domain adaptation (FDA) problem both empirically and theoretically.
 
 I completed my undergraduate study from  <a href="https://zjui.intl.zju.edu.cn/en/content/972" style="text-decoration:none">ZJU-UIUC Institute</a> at <a href="https://www.intl.zju.edu.cn" style="text-decoration:none">International Campus of Zhejiang University</a> located in Haining, Zhejiang, China. As a student of <a href="https://zjui.intl.zju.edu.cn/en/content/972" style="text-decoration:none">ZJU-UIUC Institute</a> dual-degree program, I got Bachelor of Sicence degree in Computer Engineering with <a href="https://ece.illinois.edu/admissions/why-ece/honors" style="text-decoration:none">Highest Honors</a> from <a href="https://ece.illinois.edu/" style="text-decoration:none">ECE Department</a> of <a href="https://illinois.edu/" style="text-decoration:none">UIUC</a> and Bachelor of Engineering degree in Electronics and Computer Engineering from <a href="https://www.zju.edu.cn" style="text-decoration:none">Zhejiang University</a>. 
 <!-- <a href="https://mp.weixin.qq.com/s/LSZrN2vCsjsbMZXDUSe7xg" style="text-decoration:none">Here</a> is a Wechat post by Zhejiang University official account as a retrospection of my undergraduate years. -->
