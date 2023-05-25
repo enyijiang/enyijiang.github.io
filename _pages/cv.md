@@ -30,7 +30,7 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-**Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Federated Domain Adaptation via Gradient Projection. [[arXiv Preprint](https://arxiv.org/abs/2302.05049)] 
+**Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Federated Auto-Weighted Domain Adaptation. *Under Review*.
 
 **Enyi Jiang**, Ayis Pyrros, Oluwasanmi O Koyejo. Federated Domain Adaptation for Healthcare. *Under Review*.
 
