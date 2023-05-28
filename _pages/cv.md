@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can check out my detailed CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf).
+<!-- You can check out my detailed CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf). -->
 
 Education
 ======
