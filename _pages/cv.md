@@ -44,12 +44,12 @@ Shirui Luo, Jiahuan Cui, Madhu Vellakal, Jian Liu, **Enyi Jiang**, Seid Koric, V
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
   
-Work experience
+<!-- Work experience
 ======
 * Dec 2020 - June 2021: Research Internship
   * Tencent AI Lab 
   * Shenzhen, Guangdong, China
-  * Work on Chinese word segmentation and related NLP applications.
+  * Work on Chinese word segmentation and related NLP applications. -->
   
 Teaching
 ======
