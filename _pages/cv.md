@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-?
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
   
 <!-- Skills
 ======
@@ -32,12 +32,7 @@ Recent Publications
 
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Federated Auto-Weighted Domain Adaptation. *Under Review*.
 
-**Enyi Jiang**, Ayis Pyrros, Oluwasanmi O Koyejo. Federated Domain Adaptation for Healthcare. *Under Review*.
-
-<!-- Xuan Wang, Yingjun Guan, Weili Liu, Aabhas Chauhan, **Enyi Jiang**, Qi Li, David Liem, Dibakar Sigdel, John Caufield, Peipei Ping and Jiawei Han, "EVIDENCEMINER: Textual Evidence Discovery for Life Sciences", in Proc. 2020 Annual Conf. of the Association for Computational Linguistics (ACL’20) ([System Demo](https://evidenceminer.firebaseapp.com/)), Seattle, WA, July 2020
-
-Shirui Luo, Jiahuan Cui, Madhu Vellakal, Jian Liu, **Enyi Jiang**, Seid Koric, Volodymyr Kindratenko. "Review and Examination of Input Feature Preparation Methods and Machine Learning Models for Turbulence Modeling", under review. [[arXiv Preprint](https://arxiv.org/abs/2001.05485)]  -->
-  
+**Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*.
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
@@ -69,8 +64,10 @@ Teaching
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
 
   
-Service and leadership
+Others
 ======
-Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write stuffs from time to time. :) 
+Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. :) 
 
-[[Music Radio](https://music.163.com/#/djradio?id=960850566)][[Ongoing Album](https://music.163.com/#/album?id=156591140)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
+[[Music Radio (no longer updated)](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
+
+Also, I enjoy singing, long-distance running, ice skating, reading, and traveling.
