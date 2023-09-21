@@ -33,18 +33,6 @@ Recent Publications
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Federated Auto-Weighted Domain Adaptation. *Under Review*.
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*.
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Work experience
-======
-* Dec 2020 - June 2021: Research Internship
-  * Tencent AI Lab 
-  * Shenzhen, Guangdong, China
-  * Work on Chinese word segmentation and related NLP applications. -->
   
 Teaching
 ======
@@ -64,10 +52,10 @@ Teaching
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
 
   
-Others
+Miscellaneous
 ======
 Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. :) 
 
 [[Music Radio (no longer updated)](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
 
-Also, I enjoy singing, long-distance running, ice skating, reading, and traveling.
+In my free time, I enjoy music, long-distance running, ice skating, reading, and traveling.
