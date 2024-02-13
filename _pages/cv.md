@@ -30,6 +30,8 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations. [[Arxiv]](https://arxiv.org/abs/2402.06827)
+
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU)
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
