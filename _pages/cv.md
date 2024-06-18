@@ -56,7 +56,9 @@ Teaching
   
 Miscellaneous
 ======
-Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. :) 
+My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
+
+Worship team leader @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time.
 
 [[Music Radio (no longer updated)](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
 
