@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-?
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
@@ -30,9 +30,9 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations. [[Arxiv]](https://arxiv.org/abs/2402.06827)
+**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeuIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
 
-**Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU)
+**Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
   
