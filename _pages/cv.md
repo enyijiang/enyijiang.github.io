@@ -30,7 +30,7 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeuIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
+**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
 
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
 
@@ -55,15 +55,13 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 \& 2023, NeuIPS 2024, ICLR 2025.
+Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeuIPS 2024, ICLR 2025.
 
   
 Miscellaneous
 ======
 My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
 
-Enjoy the fellowship time @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time.
-
-[[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
+Enjoy the fellowship time @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. [[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
 
 In my free time, I enjoy music, long-distance running, ice skating, reading, and traveling.
