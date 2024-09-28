@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enyi Jiang (Olivia) / Hi there!"
+title                    : "Enyi(Olivia) Jiang / Hi there!"
 title_separator          : "-"
-name                     : &name "Enyi Jiang (Olivia)"
+name                     : &name "Enyi(Olivia) Jiang"
 description              : &description "personal description"
 url                      : https://enyijiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Enyi Jiang (蒋恩奕)"
-  avatar           : "https://enyijiang.github.io/images/profile.jpeg"
+  avatar           : "https://enyijiang.github.io/images/my_pic.jpg"
   bio              : "CS PhD Student @ UIUC"
   location         : "Urbana, IL, US"
   employer         :
