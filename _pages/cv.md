@@ -30,6 +30,8 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+**Enyi Jiang**, Gagandeep Singh. Towards Universal Certified Robustness with Multi-Norm Training. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
+
 **Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
 
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
@@ -55,7 +57,7 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeuIPS 2024, ICLR 2025.
+Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeuIPS 2024, ICLR 2025, AISTATS 2025.
 
   
 Miscellaneous
