@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**I know, my God, that you test the heart and are pleased with integrity. (1 Chronicles 29:17 NIV)**
+**I know, my God, that you test the heart and are pleased with integrity.  
+——(1 Chronicles 29:17 NIV)**
 
 I am a second-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, working with <a href="https://ggndpsngh.github.io/" style="text-decoration:none">Prof. Gagandeep Singh</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems. 
 
