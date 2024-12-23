@@ -15,7 +15,6 @@ Education
 * Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
-* B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
   
 <!-- Skills
 ======
@@ -57,7 +56,7 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeurIPS 2024, ICLR 2025, AISTATS 2025.
+Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025.
 
   
 Miscellaneous
