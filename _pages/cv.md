@@ -38,6 +38,16 @@ Recent Publications
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
 
+Internship
+======
+• **Meta** *Research Intern*, Summer 2025
+
+• **Argonne National Laboratory** *Research Intern*, Summer 2023
+
+• **TensorOpera AI (FedML)** *Research Intern*, Spring 2023
+
+• **Tencent AI Lab** *NLP Intern*, Winter/Spring 2021
+
 Teaching
 ======
 <!--   <ul>{% for post in site.teaching %}
@@ -54,14 +64,6 @@ Teaching
  
 • **Math 213** *Discrete Structures* Teaching Assistant (Fall 2019)  
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
-
-Experience
-======
-• **Argonne National Laboratory** *Research Intern* Jun 2023 - Aug 2023
-
-• **TensorOpera AI (FedML)** *Research Intern* Fed 2023 - May 2023
-
-• **Tencent AI Lab** *NLP Intern* Dec 2020 - June 2021
 
 Service
 ======
