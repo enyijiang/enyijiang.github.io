@@ -37,7 +37,7 @@ Recent Publications
 **Enyi Jiang**\*, Jacky Y. Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
-  
+
 Teaching
 ======
 <!--   <ul>{% for post in site.teaching %}
@@ -54,6 +54,14 @@ Teaching
  
 • **Math 213** *Discrete Structures* Teaching Assistant (Fall 2019)  
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
+
+Experience
+======
+• **Argonne National Laboratory** *Research Intern* Jun 2023 - Aug 2023
+
+• **TensorOpera AI (FedML)** *Research Intern* Fed 2023 - May 2023
+
+• **Tencent AI Lab** *NLP Intern* Dec 2020 - June 2021
 
 Service
 ======
