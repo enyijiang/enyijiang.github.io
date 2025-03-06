@@ -67,7 +67,7 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025.
+Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, COLM 2025.
 
   
 Miscellaneous
