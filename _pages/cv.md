@@ -67,13 +67,13 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022 and 2023, NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, COLM 2025.
+Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022/2023, NeurIPS 2024/2025, ICLR 2025, AISTATS 2025, ICML 2025, COLM 2025.
 
   
 Miscellaneous
 ======
 My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
 
-Enjoy the fellowship time @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. [[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Poems](https://enyijiang.web.illinois.edu/)]
+Enjoy the fellowship time @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. [[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Blogs/Poems](https://enyijiang.web.illinois.edu/)]
 
-In my free time, I enjoy music, long-distance running, ice skating, reading, and traveling.
+I enjoy music, long-distance running, ice skating, traveling, journaling, and reading in my free time.
