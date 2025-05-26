@@ -30,6 +30,9 @@ Recent Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
+**Enyi Jiang**, Changming Xu, Nischay Singh, Gagandeep Singh. 
+Misaligning Reasoning with Answers - A Framework for Assessing LLM CoT Robustness. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
+
 **Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Universal Certified Robustness with Multi-Norm Training. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
 
 **Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
