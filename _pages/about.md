@@ -20,3 +20,5 @@ Before that, I got my Master of Science degree in the same department. My Master
 I am happy to chat or collaborate if our research interests align. You can contact me at enyij2@illinois.edu or jiangenyi6@gmail.com.
 
 <!-- Check out my CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf). And  --> 
+
+<a href="https://carnegiescience.edu/bio/dr-wu-sun" style="text-decoration:none">:heart:</a>
