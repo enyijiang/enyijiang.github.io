@@ -21,4 +21,4 @@ I am happy to chat or collaborate if our research interests align. You can conta
 
 <!-- Check out my CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf). And  --> 
 
-<a href="https://carnegiescience.edu/bio/dr-wu-sun" style="font-family: 'Playfair Display', serif; font-style: italic; color: #4B2E83; text-align: center;" title="There’s a gravity I don’t resist." >The past doesn’t define us. ❤️</a>
+<a href="https://wusun.name/" style="font-family: 'Playfair Display', serif; font-style: italic; color: #4B2E83; text-align: center;" title="There’s a gravity I don’t resist." >The past doesn’t define us. ❤️</a>
