@@ -21,4 +21,4 @@ I am happy to chat or collaborate if our research interests align. You can conta
 
 <!-- Check out my CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf). And  --> 
 
-<a href="https://carnegiescience.edu/bio/dr-wu-sun" style="text-decoration:none">:heart:</a>
+<a href="https://carnegiescience.edu/bio/dr-wu-sun" style="text-decoration:none">❤️</a>
