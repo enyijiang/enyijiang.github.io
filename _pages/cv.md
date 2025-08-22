@@ -56,6 +56,10 @@ Teaching
 <!--   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+• **CS 521** *Trustworthy AI Systems* Teaching Assistant (Fall 2025)  
+  Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
+  
 • **CS 447** *Natural Language Processing* Teaching Assistant (Fall 2021)  
   Instructor: [Prof. Julia Hockenmaier](https://juliahmr.cs.illinois.edu/)
   
@@ -70,7 +74,7 @@ Teaching
 
 Service
 ======
-Reviewer for ICML Workshop on Adversarial Machine Learning Frontiers 2022/2023, NeurIPS 2024/2025, ICLR 2025, AISTATS 2025, ICML 2025, COLM 2025.
+Reviewer for NeurIPS 2024/2025, ICLR 2025, ICML 2025, AAAI 2026, AISTATS 2025/2026, COLM 2025, ICML Workshop on Adversarial Machine Learning Frontiers 2022/2023.
 
   
 Miscellaneous
