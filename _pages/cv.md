@@ -76,6 +76,15 @@ Service
 ======
 Reviewer for NeurIPS 2024/2025, ICLR 2025, ICML 2025, AAAI 2026, AISTATS 2025/2026, COLM 2025, ICML Workshop on Adversarial Machine Learning Frontiers 2022/2023.
 
+Mentoring
+======
+David Shu Cheung (Undergrad @ UIUC CS -> MS @ UIUC CS)
+
+Sunwoo Baek (MCS @ UIUC CS)
+
+Nischay Singh (Undergrad @ UIUC CS)
+
+Skye Qiu (Undergrad @ UIUC CS+STAT)
   
 Miscellaneous
 ======
