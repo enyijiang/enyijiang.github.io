@@ -74,7 +74,7 @@ Teaching
 
 Service
 ======
-Reviewer for NeurIPS 2024/2025, ICLR 2025, ICML 2025, AAAI 2026, AISTATS 2025/2026, COLM 2025, ICML Workshop on Adversarial Machine Learning Frontiers 2022/2023.
+Reviewer for NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, and COLM.
 
 Mentoring
 ======
