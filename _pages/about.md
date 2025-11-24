@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, working with <a href="https://ggndpsngh.github.io/" style="text-decoration:none">Prof. Gagandeep Singh</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems. Specifically, my research focuses on the following aspects:
+I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems. Specifically, my research focuses on the following aspects:
 
 - Robust and certifiable machine learning for vision and language models
 - LLM robustness and explainability
