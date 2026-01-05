@@ -74,7 +74,7 @@ Teaching
 
 Service
 ======
-Reviewer for NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, and COLM.
+Reviewer for NeurIPS, ICLR, ICML, CVPR, AAAI, AISTATS, COLM, and TPAMI.
 
 Mentoring
 ======
