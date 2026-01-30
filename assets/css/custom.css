@@ -31,3 +31,23 @@ a:focus {
 .navbar .nav-link:hover {
   color: #6B5FD3 !important;
 }
+
+.page__content h1,
+.page__content h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #E5E7EB;
+}
+
+.page__content h2 {
+  font-weight: 600;
+}
+
+.page__content ul {
+  padding-left: 1.2em;
+}
+
+.page__content li {
+  margin-bottom: 0.4em;
+}
+
