@@ -20,10 +20,10 @@ linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
 short_bio_text_justify: false
-# short_bio: >-
-#   <p>
-#     I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems.
-#   </p>
+short_bio: >-
+  <p>
+    I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems.
+  </p>
 #   <p>
 #     Before that, I got my Master of Science degree in the same department. My Master research concentrates on federated learning for healthcare applications, with a focus on federated domain adaptation (FDA) problem both empirically and theoretically, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a>. Also, I got a Bachelor of Science degree in Computer Engineering with <a href="https://ece.illinois.edu/admissions/why-ece/honors" style="text-decoration:none">Highest Honors</a> from <a href="https://ece.illinois.edu/" style="text-decoration:none">ECE Department</a> of <a href="https://illinois.edu/" style="text-decoration:none">UIUC</a>. 
 #   </p>
@@ -34,37 +34,39 @@ portrait_url: /assets/images/selfi_3.jpeg
 
 education:
 - name: University of Illinois at Urbana-Champaign
-#   logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/uiuc_logo.jpeg
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
   date: 2023 - present
 - name: University of Illinois at Urbana-Champaign
-#   logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/uiuc_logo.jpeg
   position: >- 
     Department of Computer Science <br/>
     MS Student (thesis-track)
   date: 2020 - 2023
 - name: University of Illinois at Urbana-Champaign
-#   logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/uiuc_logo.jpeg
   position: >- 
     Department of Electrical and Computer Engineering <br/>
     Undergraduate Student
   date: 2016 - 2020
 - name: Zhejiang University
-#   logo: /assets/images/badges/MIT_Social_circle.png
+  logo: /assets/images/zju_logo.png
   position: >- 
     ZJU-UIUC Institute <br/>
     Undergraduate Student
   date: 2016 - 2020
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: B.S. in Computer Science
-#   date: Sep. 2019 - Jul. 2021
 
 experience:
+- name: Stanford University
+  logo: /assets/images/stanford_logo.png
+  position: >- 
+    Department of Computer Science <br/>
+    Visiting PhD
+  date: 2026 - present
 - name: Meta
-  # logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/meta_logo.png
   position: Research Intern
   date: Summer 2025/2026
 
