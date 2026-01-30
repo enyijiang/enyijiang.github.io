@@ -6,6 +6,6 @@ pages:
 # - name: Home (Layout 2)
 #   url: /index_layout2
 - name: CV
-  url: /cv
+  url: /cv/
 # - name: Showcase
 #   url: /showcase
