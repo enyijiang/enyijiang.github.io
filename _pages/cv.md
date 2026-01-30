@@ -23,9 +23,6 @@ Education
 
 Recent Publications
 ======
-<!--   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
@@ -54,9 +51,6 @@ Internship
 
 Teaching
 ======
-<!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
 • **CS 521** *Trustworthy AI Systems* Teaching Assistant (Fall 2025)  
   Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
