@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Education
+## Education
 
 * Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
@@ -21,7 +21,7 @@ redirect_from:
 * Pytorch, Tensorflow
 <!-- * Skill 3 --> 
 
-# Recent Publications
+## Recent Publications
 
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
@@ -38,7 +38,7 @@ Misaligning Reasoning with Answers - A Framework for Assessing LLM CoT Robustnes
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
 
-# Internship
+## Internship
 
 • **Meta** *Research Intern*, Summer 2025/2026
 
@@ -48,7 +48,7 @@ Misaligning Reasoning with Answers - A Framework for Assessing LLM CoT Robustnes
 
 • **Tencent AI Lab** *NLP Intern*, Winter/Spring 2021
 
-# Teaching
+## Teaching
 
 • **CS 521** *Trustworthy AI Systems* Teaching Assistant (Fall 2025)  
   Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
@@ -65,11 +65,11 @@ Misaligning Reasoning with Answers - A Framework for Assessing LLM CoT Robustnes
 • **Math 213** *Discrete Structures* Teaching Assistant (Fall 2019)  
   Instructor: [Prof. Klaus-Dieter Schewe](https://scholar.google.com/citations?user=e74FobUAAAAJ&hl=en)
 
-# Service
+## Service
 
 Reviewer for NeurIPS, ICLR, ICML, CVPR, ECCV, AAAI, AISTATS, COLM, and TPAMI.
 
-# Mentoring
+## Mentoring
 
 David Shu Cheung (Undergrad @ UIUC CS -> MS @ UIUC CS)
 
@@ -79,7 +79,7 @@ Nischay Singh (Undergrad @ UIUC CS)
 
 Skye Qiu (Undergrad @ UIUC CS+STAT)
   
-# Miscellaneous
+## Miscellaneous
 
 My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
 
