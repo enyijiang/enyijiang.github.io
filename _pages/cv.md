@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<!-- You can check out my detailed CV [here](https://enyijiang.github.io/files/Enyi_Jiang_CV.pdf). -->
-
 Education
 ======
 * Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
