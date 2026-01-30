@@ -5,6 +5,14 @@ body {
   line-height: 1.7;
 }
 
+body {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #1F2937;
+}
+
 a,
 a:visited {
   color: #6B5FD3;
@@ -32,22 +40,41 @@ a:focus {
   color: #6B5FD3 !important;
 }
 
-.page__content h1,
-.page__content h2 {
-  margin-top: 2.2rem;
-  padding-bottom: 0.3rem;
-  border-bottom: 1px solid #E5E7EB;
+.page__content h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.2rem;
 }
 
 .page__content h2 {
+  font-size: 1.35rem;
   font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 0.8rem;
+  border-bottom: 1px solid #E5E7EB;
+  padding-bottom: 0.3rem;
+}
+
+.page__content p,
+.page__content li {
+  font-size: 0.95rem;
+  color: #1F2937;
 }
 
 .page__content ul {
   padding-left: 1.2em;
+  margin-top: 0.4em;
 }
 
 .page__content li {
-  margin-bottom: 0.4em;
+  margin-bottom: 0.45em;
+}
+
+.page__content a {
+  font-weight: 500;
+}
+
+.page__content {
+  max-width: 900px;
 }
 
