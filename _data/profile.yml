@@ -22,15 +22,11 @@ linkedin: your-linked-in-id
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems. Specifically, my research focuses on the following aspects:
-</p>
- <p>
-- AI safety and alignment
-</p>
-<p> 
-- Robust and certifiable machine learning for vision and language models
+    I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems.
+
 </p>
 <p>
+    
     Before that, I got my Master of Science degree in the same department. My Master research concentrates on federated learning for healthcare applications, with a focus on federated domain adaptation (FDA) problem both empirically and theoretically, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a>. Also, I got a Bachelor of Science degree in Computer Engineering with <a href="https://ece.illinois.edu/admissions/why-ece/honors" style="text-decoration:none">Highest Honors</a> from <a href="https://ece.illinois.edu/" style="text-decoration:none">ECE Department</a> of <a href="https://illinois.edu/" style="text-decoration:none">UIUC</a>. 
     
   </p>
