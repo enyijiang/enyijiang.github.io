@@ -4,8 +4,8 @@ navbar_name: "Enyi Jiang (蒋恩奕) - Hi there!"
 
 positions:
 - name: PhD @ UIUC
-- name: Visiting PhD @ Stanford
   logo: /assets/images/uiuc_logo.jpeg  # Logo is optional
+- name: Visiting PhD @ Stanford
   logo: /assets/images/stanford_logo.png 
 
 
