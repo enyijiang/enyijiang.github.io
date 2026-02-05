@@ -27,8 +27,8 @@ redirect_from:
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
 
 
-**Enyi Jiang**, Changming Xu, Nischay Singh, Gagandeep Singh. 
-Misaligning Reasoning with Answers - A Framework for Assessing LLM CoT Robustness. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
+**Enyi Jiang**, Changming Xu, Nischay Singh, Tian Qiu, Gagandeep Singh. 
+Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
 
 **Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
 
