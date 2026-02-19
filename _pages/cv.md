@@ -21,6 +21,12 @@ redirect_from:
 * Pytorch, Tensorflow
 <!-- * Skill 3 --> 
 
+## Selected Publications
+**Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
+Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
+
+**Enyi Jiang**\*, Yibo Jacky Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
+
 ## Recent Publications
 
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
@@ -38,6 +44,7 @@ Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasonin
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
 
+
 ## Internship
 
 • **Meta** *Research Intern*, Summer 2025/2026
@@ -49,6 +56,8 @@ Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasonin
 • **Tencent AI Lab** *NLP Intern*, Winter/Spring 2021
 
 ## Teaching
+• **CS 441** *Applied Machine Learning* Teaching Assistant (Spring 2026)  
+  Instructor: [Prof. Marco Morales Aguirre](https://siebelschool.illinois.edu/about/people/faculty/moralesa)
 
 • **CS 521** *Trustworthy AI Systems* Teaching Assistant (Fall 2025)  
   Instructor: [Prof. Gagandeep Singh](https://ggndpsngh.github.io/)
@@ -67,7 +76,7 @@ Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasonin
 
 ## Service
 
-Reviewer for NeurIPS, ICLR, ICML, CVPR, ECCV, AAAI, AISTATS, COLM, and TPAMI.
+Reviewer for NeurIPS, ICLR, ICML, TMLR, CVPR, ECCV, AAAI, AISTATS, COLM, and TPAMI.
 
 ## Mentoring
 
@@ -83,6 +92,6 @@ Skye Qiu (Undergrad @ UIUC CS+STAT)
 
 My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**
 
-Enjoy the fellowship time @ [ICCF](https://iccfer.com/). Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. [[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Blogs/Poems](https://enyijiang.web.illinois.edu/)]
+Part-time piano player (record piano version of Christian/Pop music). Write kinds of stuff from time to time. [[Music Radio](https://music.163.com/#/djradio?id=960850566)] [[Random Blogs/Poems](https://enyijiang.web.illinois.edu/)]
 
 I enjoy music, long-distance running, ice skating, traveling, journaling, and reading in my free time.
