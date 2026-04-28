@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-2027 (expected)
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
@@ -34,9 +34,9 @@ Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]]
 
 
 **Enyi Jiang**, Changming Xu, Nischay Singh, Tian Qiu, Gagandeep Singh. 
-Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
+Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
 
-**Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
+**Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
 
 **Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
 
