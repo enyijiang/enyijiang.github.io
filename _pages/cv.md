@@ -21,7 +21,7 @@ redirect_from:
 * Pytorch, Tensorflow
 <!-- * Skill 3 --> 
 
-## Selected Publications
+## Selected Works
 
 <p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 0.5em 0 0.4em;">If latent risk can be detected, can we intervene only when necessary?</p>
 
