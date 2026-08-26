@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-Present
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-2027
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
@@ -22,25 +22,37 @@ redirect_from:
 <!-- * Skill 3 --> 
 
 ## Selected Publications
+Chengxiao Wang\*, **Enyi Jiang**\*, Xiaojing Liao, Sanmi Koyejo.
+CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. [[Arxiv]](https://arxiv.org/abs/2608.21278)
+
+**Enyi Jiang**\*, Anders Gjølbye\*, Yibo Jacky Zhang, Sanmi Koyejo.
+When Behavioral Safety Evaluation Fails: A Representation-Level Perspective. [[Arxiv]](https://arxiv.org/abs/2606.08044)
+
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
-
-**Enyi Jiang**\*, Yibo Jacky Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
 
 ## Recent Publications
 
+Chengxiao Wang\*, **Enyi Jiang**\*, Xiaojing Liao, Sanmi Koyejo.
+CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. [[Arxiv]](https://arxiv.org/abs/2608.21278)
+
+**Enyi Jiang**\*, Anders Gjølbye\*, Yibo Jacky Zhang, Sanmi Koyejo.
+When Behavioral Safety Evaluation Fails: A Representation-Level Perspective. [[Arxiv]](https://arxiv.org/abs/2606.08044)
+
+**Enyi Jiang**, Wu Sun.
+Environment-Adaptive Preference Optimization for Wildfire Prediction. [[Arxiv]](https://arxiv.org/abs/2605.12435)
+
+**Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
+
+**Enyi Jiang**, Changming Xu, Nischay Singh, Tian Qiu, Gagandeep Singh. 
+Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[OpenReview]](https://openreview.net/forum?id=pMhTFUdM4G) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
+
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
 
+**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP)
 
-**Enyi Jiang**, Changming Xu, Nischay Singh, Tian Qiu, Gagandeep Singh. 
-Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
-
-**Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
-
-**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP/tree/main)
-
-**Enyi Jiang**\*, Yibo Jacky Zhang\*, Oluwasanmi O Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
+**Enyi Jiang**\*, Yibo Jacky Zhang\*, Sanmi Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
 
 **Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
 
@@ -56,7 +68,7 @@ Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasonin
 • **Tencent AI Lab** *NLP Intern*, Winter/Spring 2021
 
 ## Teaching
-• **CS 441** *Applied Machine Learning* Teaching Assistant (Spring 2026)  
+• **CS 441** *Applied Machine Learning* Teaching Assistant (Spring 2026 & Fall 2026)  
   Instructor: [Prof. Marco Morales Aguirre](https://siebelschool.illinois.edu/about/people/faculty/moralesa)
 
 • **CS 521** *Trustworthy AI Systems* Teaching Assistant (Fall 2025)  
@@ -79,6 +91,9 @@ Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasonin
 Reviewer for NeurIPS, ICLR, ICML, TMLR, CVPR, ECCV, AAAI, AISTATS, COLM, and TPAMI.
 
 ## Mentoring
+Shardul Marathe (Undergrad @ Stanford CS)
+
+Hanwen Zhang (MCS @ UIUC CS)
 
 David Shu Cheung (Undergrad @ UIUC CS -> MS @ UIUC CS)
 
@@ -86,7 +101,7 @@ Sunwoo Baek (MCS @ UIUC CS)
 
 Nischay Singh (Undergrad @ UIUC CS)
 
-Skye Qiu (Undergrad @ UIUC CS+STAT)
+Skye Qiu (Undergrad @ UIUC CS+STAT -> MCS @ UIUC CS)
   
 ## Miscellaneous
 
