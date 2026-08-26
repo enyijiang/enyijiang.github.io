@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-2027
+* Ph.D. in Computer Science, University of Illinois at Urbana-Champaign, 2023-2027 (expected)
 * M.S. in Computer Science (thesis-track), University of Illinois at Urbana-Champaign, 2020-2023
 * B.S. in Computer Engineering (Highest Honors), University of Illinois at Urbana-Champaign, 2016-2020
 * B.E. in Electronics and Computer Engineering, Zhejiang University, 2016-2020
