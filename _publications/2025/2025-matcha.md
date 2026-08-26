@@ -1,6 +1,6 @@
 ---
 title:          "Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning"
-date:           2026-02-15 00:01:00 +0800
+date:           2025-02-15 00:01:00 +0800
 selected:       false
 pub:            "Transactions on Machine Learning Research (TMLR)"
 pub_date:       "2026"

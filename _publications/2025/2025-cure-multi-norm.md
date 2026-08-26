@@ -1,6 +1,6 @@
 ---
 title:          "Towards Generalized Certified Robustness with Multi-Norm Training"
-date:           2026-04-14 00:01:00 +0800
+date:           2025-04-14 00:01:00 +0800
 selected:       false
 pub:            "Transactions on Machine Learning Research (TMLR)"
 pub_date:       "2026"
