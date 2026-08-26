@@ -22,39 +22,25 @@ redirect_from:
 <!-- * Skill 3 --> 
 
 ## Selected Publications
+
+<p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 0.5em 0 0.4em;">If latent risk can be detected, can we intervene only when necessary?</p>
+
 Chengxiao Wang\*, **Enyi Jiang**\*, Xiaojing Liao, Sanmi Koyejo.
 CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. [[Arxiv]](https://arxiv.org/abs/2608.21278)
 
+<p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 1.25em 0 0.4em;">Does safe-looking behavior necessarily imply a safe internal model state?</p>
+
 **Enyi Jiang**\*, Anders Gjølbye\*, Yibo Jacky Zhang, Sanmi Koyejo.
 When Behavioral Safety Evaluation Fails: A Representation-Level Perspective. [[Arxiv]](https://arxiv.org/abs/2606.08044)
+
+<p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 1.25em 0 0.4em;">Can alignment objectives operate directly over representations rather than only token distributions?</p>
 
 **Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
 Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
 
 ## Recent Publications
 
-Chengxiao Wang\*, **Enyi Jiang**\*, Xiaojing Liao, Sanmi Koyejo.
-CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. [[Arxiv]](https://arxiv.org/abs/2608.21278)
-
-**Enyi Jiang**\*, Anders Gjølbye\*, Yibo Jacky Zhang, Sanmi Koyejo.
-When Behavioral Safety Evaluation Fails: A Representation-Level Perspective. [[Arxiv]](https://arxiv.org/abs/2606.08044)
-
-**Enyi Jiang**, Wu Sun.
-Environment-Adaptive Preference Optimization for Wildfire Prediction. [[Arxiv]](https://arxiv.org/abs/2605.12435)
-
-**Enyi Jiang**, David S. Cheung, Gagandeep Singh. Towards Generalized Certified Robustness with Multi-Norm Training. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2410.03000) [[Code]](https://github.com/uiuc-focal-lab/CURE)
-
-**Enyi Jiang**, Changming Xu, Nischay Singh, Tian Qiu, Gagandeep Singh. 
-Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning. TMLR 2026. [[Arxiv]](https://arxiv.org/abs/2505.17406) [[OpenReview]](https://openreview.net/forum?id=pMhTFUdM4G) [[Code]](https://github.com/uiuc-focal-lab/MATCHA)
-
-**Enyi Jiang**, Yibo Jacky Zhang, Yinglun Xu, Andreas Haupt, Nancy Amato, Sanmi Koyejo. 
-Latent Adversarial Regularization for Offline Preference Optimization. [[Arxiv]](https://arxiv.org/abs/2601.22083) [[Code]](https://github.com/enyijiang/GANPO)
-
-**Enyi Jiang**, Gagandeep Singh. RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations for Universal Robustness. NeurIPS 2024. [[Arxiv]](https://arxiv.org/abs/2402.06827) [[Code]](https://github.com/uiuc-focal-lab/RAMP)
-
-**Enyi Jiang**\*, Yibo Jacky Zhang\*, Sanmi Koyejo. Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting. ICLR 2024. [[OpenReview]](https://openreview.net/forum?id=6J3ehSUrMU) [[Code]](https://github.com/jackyzyb/AutoFedGP)
-
-**Enyi Jiang**. Federated Domain Adaptation for Healthcare. *MS Thesis*. [[Link]](https://www.ideals.illinois.edu/items/127653)
+See the [Publications](/publications/) tab for the full list.
 
 
 ## Internship

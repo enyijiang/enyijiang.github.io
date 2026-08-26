@@ -23,7 +23,10 @@ linkedin: enyi-jiang-16a561171
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third-year Computer Science Ph.D. student at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am broadly interested in trustworthy machine learning. My research goal is to build robust, certifiable, and interpretable machine learning systems.
+    I am a final-year Computer Science Ph.D. candidate at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am currently a visiting researcher with the <a href="https://stair.cs.stanford.edu/" style="text-decoration:none">Stanford Trustworthy AI Research (STAIR) Lab</a> at Stanford University.
+  </p>
+  <p>
+    My research focuses on AI safety and alignment at the intersection of safety and interpretability research. I am particularly interested in understanding and improving model safety through internal representations—studying when behavioral evaluations fail to capture latent risk, how safety-relevant signals emerge during reasoning, and how these signals can support more reliable monitoring and intervention. More broadly, I am interested in building trustworthy AI systems that remain robust under distribution shift and adversarial conditions, as well as applying machine learning to scientific and societal domains, including climate science and healthcare.
   </p>
   <p>
     <a href="https://wusun.name/" style="font-family: 'Playfair Display', serif; font-style: italic; color: #4B2E83; text-align: center;" title="There’s a gravity I don’t resist." >The past doesn’t define us. ❤️</a>
