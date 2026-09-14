@@ -11,7 +11,7 @@ redirect_from:
 
 # Curriculum Vitae
 
-<a href="{{ site.data.profile.cv_link | relative_url }}" download>Download CV (PDF)</a>
+<a href="{{ site.data.profile.cv_link | relative_url }}" target="_blank" rel="noopener">View CV (PDF)</a>
 
 ## Education
 
