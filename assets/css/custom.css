@@ -53,6 +53,12 @@ button:focus-visible {
   padding-left: 0.75rem;
 }
 
+/* Override Google's generated button text while retaining its purple background. */
+.appointment-button button,
+.appointment-button button * {
+  color: #ffffff !important;
+}
+
 .research-links {
   display: flex;
   flex-wrap: wrap;
