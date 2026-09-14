@@ -1,11 +1,17 @@
 ---
 layout: default
 title: "CV"
+navbar_title: CV
+content_class: page__content
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+# Curriculum Vitae
+
+<a href="{{ site.data.profile.cv_link | relative_url }}" download>Download CV (PDF)</a>
 
 ## Education
 

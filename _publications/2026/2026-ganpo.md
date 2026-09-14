@@ -4,6 +4,8 @@ date:           2026-01-29 00:01:00 +0800
 selected:       true
 pub:            "arXiv preprint"
 pub_date:       "2026"
+research_question: "Can alignment objectives operate directly over representations?"
+summary: "GANPO regularizes preference optimization in latent space to provide more robust feedback under distribution shift and noise."
 abstract: >-
   GANPO regularizes offline preference optimization in latent space, using a GAN-inspired adversarial objective to penalize divergence between the policy and reference model's internal representations instead of token-level similarity. This gives more robust structural feedback under distribution shift and noise at minor computational cost.
 authors:

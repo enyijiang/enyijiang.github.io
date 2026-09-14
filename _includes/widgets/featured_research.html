@@ -1,0 +1,18 @@
+<section class="my-3 bg-white shadow-sm rounded-xl" aria-labelledby="featured-research-title">
+    <h2 id="featured-research-title" class="h4 p-4 mb-0 border-bottom">Selected Research</h2>
+    {% for item in include.publications limit:3 %}
+    <article class="p-4 {% unless forloop.last %}border-bottom{% endunless %}">
+        <p class="research-question mb-2">{{ item.research_question }}</p>
+        <h3 class="h5 mb-2">{{ item.title }}</h3>
+        <p class="small mb-1">{% include widgets/author_list.html authors=item.authors %}</p>
+        <p class="small text-muted mb-2">{{ item.pub }} · {{ item.pub_date }}</p>
+        <p class="mb-2">{{ item.summary }}</p>
+        <div class="research-links">
+            {% for link in item.links %}
+            <a href="{{ link[1] }}">{% if link[0] == 'Arxiv' %}Paper{% else %}{{ link[0] }}{% endif %}</a>
+            {% endfor %}
+        </div>
+    </article>
+    {% endfor %}
+    <div class="px-4 pb-4"><a href="{{ '/publications/' | relative_url }}">View all publications &rarr;</a></div>
+</section>

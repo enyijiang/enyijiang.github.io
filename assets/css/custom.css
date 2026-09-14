@@ -33,40 +33,83 @@ a:focus {
   color: #6B5FD3 !important;
 }
 
-/* ===== FINAL CV FONT OVERRIDE ===== */
+/* Make the current page and keyboard focus easy to identify. */
+.navbar .nav-item.active .nav-link {
+  color: #4F46C8 !important;
+  text-decoration: underline;
+  text-underline-offset: 0.3em;
+}
 
-/* Page title: CV */
-/* .page__title {
-  font-size: 1.6rem !important;
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid #4F46C8;
+  outline-offset: 4px;
+}
+
+.research-question {
+  color: #5b6470;
+  font-style: italic;
+  border-left: 3px solid #b76e79;
+  padding-left: 0.75rem;
+}
+
+.research-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
   font-weight: 600;
-  margin-bottom: 1.5rem;
-} */
+}
 
-/* Section headers: Education, Publications, etc. */
+.personal-note {
+  font-family: Georgia, serif;
+  color: #79515b;
+}
+
+.personal-note p:last-child {
+  margin-bottom: 0;
+}
+
+/* Scope the web CV typography to its content wrapper. */
+.page__content {
+  max-width: 54rem;
+  margin: 0 auto;
+  overflow-wrap: break-word;
+}
+
+.page__content h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
 .page__content h2 {
-  font-size: 1.0rem !important;   /* 关键：压到 1.0rem */
-  font-weight: 600 !important;
-  margin-top: 1.8rem !important;
-  margin-bottom: 0.4rem !important;
-  padding-bottom: 0.2rem !important;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 0.6rem;
+  padding-bottom: 0.3rem;
   border-bottom: 1px solid #E5E7EB;
 }
 
-/* Body text */
 .page__content p,
 .page__content li {
-  font-size: 0.9rem !important;
-  line-height: 1.6 !important;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
-/* Lists tighter (CV-style) */
 .page__content ul {
-  margin-top: 0.3rem !important;
-  padding-left: 1.1em !important;
+  margin-top: 0.3rem;
+  padding-left: 1.1em;
 }
 
 .page__content li {
-  margin-bottom: 0.35em !important;
+  margin-bottom: 0.35em;
 }
 
-/* ===== FORCE CV SECTION FONT SIZE (archive layout) ===== *
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    max-width: calc(100% - 5.5rem);
+    white-space: normal;
+    font-size: 0.95rem;
+    line-height: 1.3;
+  }
+}

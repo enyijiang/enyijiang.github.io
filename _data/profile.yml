@@ -10,7 +10,7 @@ positions:
 
 
 email: "enyij2@illinois.edu"
-# cv_link: link-to-your-cv-file
+cv_link: /assets/files/Enyi_Jiang_CV.pdf
 gscholar: h6YC9nwAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: enyijiang
 twitter: enyij2  # Do not include the '@' symbol
@@ -23,26 +23,15 @@ linkedin: enyi-jiang-16a561171
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a final-year Computer Science Ph.D. candidate at <a href="https://illinois.edu/" style="text-decoration:none">University of Illinois at Urbana-Champaign</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato" style="text-decoration:none">Prof. Nancy Amato</a>. I am currently a visiting researcher with the <a href="https://stair.cs.stanford.edu/" style="text-decoration:none">Stanford Trustworthy AI Research (STAIR) Lab</a> at Stanford University.
+    I study AI safety and alignment through models’ internal representations, developing ways to detect hidden risks and intervene while preserving useful capabilities.
   </p>
   <p>
-    My research focuses on AI safety and alignment at the intersection of safety and interpretability research. I am particularly interested in understanding and improving model safety through internal representations—studying when behavioral evaluations fail to capture latent risk, how safety-relevant signals emerge during reasoning, and how these signals can support more reliable monitoring and intervention. More broadly, I am interested in building trustworthy AI systems that remain robust under distribution shift and adversarial conditions, as well as applying machine learning to scientific and societal domains, including climate science and healthcare.
-  </p>
-  <p>
-    <a href="https://wusun.name/" style="font-family: 'Playfair Display', serif; font-style: italic; color: #4B2E83; text-align: center;" title="There’s a gravity I don’t resist." >The past doesn’t define us. ❤️</a>
+    I am a final-year Computer Science Ph.D. candidate at <a href="https://illinois.edu/">UIUC</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato">Prof. Nancy Amato</a>, and a visiting researcher at Stanford’s <a href="https://stair.cs.stanford.edu/">Trustworthy AI Research (STAIR) Lab</a>. My broader interests include robustness under distribution shift and applications in climate science and healthcare.
   </p>
 
-  <p style="
-  color: #b76e79; 
-  font-family: 'Playfair Display', 'Georgia', serif;
-  font-size: 1.1em;
-  line-height: 1.6;
-  ">
-    May we, by God's grace, create beauty, discover essence, and perceive connections.
-  </p>
-#   <p>
-#     Before that, I got my Master of Science degree in the same department. My Master research concentrates on federated learning for healthcare applications, with a focus on federated domain adaptation (FDA) problem both empirically and theoretically, advised by <a href="https://cs.stanford.edu/~sanmi/index.html" style="text-decoration:none">Prof. Sanmi Koyejo</a>. Also, I got a Bachelor of Science degree in Computer Engineering with <a href="https://ece.illinois.edu/admissions/why-ece/honors" style="text-decoration:none">Highest Honors</a> from <a href="https://ece.illinois.edu/" style="text-decoration:none">ECE Department</a> of <a href="https://illinois.edu/" style="text-decoration:none">UIUC</a>. 
-#   </p>
+personal_note: >-
+  <p><a href="https://wusun.name/" title="There’s a gravity I don’t resist.">The past doesn’t define us. ❤️</a></p>
+  <p>May we, by God's grace, create beauty, discover essence, and perceive connections.</p>
 
 portrait_url: /assets/images/new_photo.jpeg
 # portrait_caption: >-
