@@ -42,3 +42,6 @@ collections:
   - news
   - showcase
   - pages
+# Local previews are not part of the published website.
+exclude:
+  - output

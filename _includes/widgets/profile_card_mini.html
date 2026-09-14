@@ -40,6 +40,9 @@
                         <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
                             {{ site.data.profile.email | replace: "@", "(at)" }}
                         </a>
+                        {% if site.data.profile.secondary_email %}
+                        <br><a class="email-text" href="mailto:{{ site.data.profile.secondary_email | encode_email }}">{{ site.data.profile.secondary_email | replace: "@", "(at)" }}</a>
+                        {% endif %}
                     </div>
                 </div>
 

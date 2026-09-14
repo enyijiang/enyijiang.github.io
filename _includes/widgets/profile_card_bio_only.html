@@ -13,9 +13,13 @@
                         <div class="text-profile-bio mt-0" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
                             {{ site.data.profile.short_bio }}
                         </div>
-                        {% if site.data.profile.cv_link %}
-                            <a target="_blank" rel="noopener" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt"></i> View CV (PDF)</a> <br/>
+                        {% if site.data.profile.availability %}
+                        <div class="academic-opportunities">
+                            <strong>Academic opportunities</strong>
+                            <p>{{ site.data.profile.availability }}</p>
+                        </div>
                         {% endif %}
+                        {% include widgets/document_links.html %}
                     </div>
         
                 </div>

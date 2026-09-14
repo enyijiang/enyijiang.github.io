@@ -1,0 +1,85 @@
+<section id="enyi-research-map" aria-label="Research overview preview" class="my-3 shadow-sm">
+
+<header class="intro">
+  <div class="eyebrow">Research · Enyi (Olivia) Jiang</div>
+  <h2>Understanding AI safety<br>from the <em>inside out.</em>
+</h2>
+  <p class="subtitle">Internal representations as evidence for evaluation,<br>signals for alignment, and targets for intervention.</p>
+</header>
+<div class="label-line"><span>Current &amp; ongoing research</span></div>
+<div class="pillars">
+  <article class="pillar">
+    <div class="pillar-top">
+<span class="number">01</span>
+</div>
+    <img class="theme-illustration" alt="A magnifying lens reveals an internal risk despite a reassuring model output." src="{{ '/assets/images/research/diagnose.jpg' | relative_url }}" width="360" height="360" loading="lazy"><h3>Diagnose</h3>
+    <p class="question">What does safe-looking behavior leave hidden?</p>
+    <p class="detail">Probe fragile reasoning and internal vulnerabilities that output-based evaluations can miss.</p>
+    <div class="papers">
+      <a class="paper-link" href="https://arxiv.org/abs/2505.17406" target="_blank" rel="noopener noreferrer" aria-label="MATCHA: Robust Answers, Fragile Logic, opens in a new tab"><span>MATCHA<br>Robust answers, fragile logic</span><span class="out" aria-hidden="true">↗</span></a>
+      <a class="paper-link" href="https://arxiv.org/abs/2606.08044" target="_blank" rel="noopener noreferrer"><span>When Behavioral Safety<br>Evaluation Fails</span><span class="out" aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+  <article class="pillar">
+    <div class="pillar-top">
+<span class="number">02</span>
+</div>
+    <img class="theme-illustration" alt="Scattered representations are shaped into a structured latent space." src="{{ '/assets/images/research/shape.jpg' | relative_url }}" width="360" height="360" loading="lazy"><h3>Shape</h3>
+    <p class="question">How can representations guide better alignment?</p>
+    <p class="detail">Use latent-space feedback during learning to complement token-level preference objectives.</p>
+    <div class="papers">
+      <a class="paper-link" href="https://arxiv.org/abs/2601.22083" target="_blank" rel="noopener noreferrer"><span>GANPO<br>Latent adversarial regularization</span><span class="out" aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+  <article class="pillar">
+    <div class="pillar-top">
+<span class="number">03</span>
+</div>
+    <img class="theme-illustration" alt="A selective gate redirects one risky branch while allowing other paths to continue." src="{{ '/assets/images/research/intervene.jpg' | relative_url }}" width="360" height="360" loading="lazy"><h3>Intervene</h3>
+    <p class="question">When should a safety mechanism step in?</p>
+    <p class="detail">Apply safety mechanisms selectively, balancing protection with useful model capabilities.</p>
+    <div class="papers">
+      <a class="paper-link" href="https://arxiv.org/abs/2608.21278" target="_blank" rel="noopener noreferrer"><span>CLEAR<br>Continuous latent adapter routing</span><span class="out" aria-hidden="true">↗</span></a>
+    </div>
+  </article>
+</div>
+<section class="future" aria-label="Future research directions">
+  <div class="label-line"><span>Looking ahead · future agenda</span></div>
+  <div class="future-grid">
+    <article class="future-box">
+      <img class="theme-illustration" alt="A targeted probe investigates a pathway through model layers." src="{{ '/assets/images/research/mechanistic.jpg' | relative_url }}" width="360" height="360" loading="lazy"><h3 class="research-icon-heading"><span>Mechanistic safety</span></h3>
+      <p class="detail">Identify the features and pathways that causally contribute to safe behavior in open-weight models.</p>
+      <span class="related">Builds on</span>
+      <a href="https://arxiv.org/abs/2606.08044" target="_blank" rel="noopener noreferrer">Representation-level safety evaluation ↗</a>
+    </article>
+    <div class="exchange" role="img" aria-label="Mechanistic findings inform agent monitoring and steering; agent failures test mechanistic explanations">⇄</div>
+    <article class="future-box">
+      <img class="theme-illustration" alt="An emerging risk is detected and an agent trajectory is redirected." src="{{ '/assets/images/research/agents.jpg' | relative_url }}" width="360" height="360" loading="lazy"><h3 class="research-icon-heading"><span>Agent monitoring &amp; steering</span></h3>
+      <p class="detail">Detect emerging risks across reasoning and action, then redirect agents while preserving legitimate task progress.</p>
+      <span class="related">Builds on</span>
+      <a href="https://arxiv.org/abs/2608.21278" target="_blank" rel="noopener noreferrer">CLEAR: selective intervention ↗</a>
+    </article>
+  </div>
+</section>
+<footer class="foundations">
+  <div class="foundation">
+    <h3 class="research-icon-heading">
+<i aria-hidden="true" class="fas fa-shield-halved"></i><span>Foundations in robustness</span>
+</h3>
+    <div class="foundation-links">
+      <a href="https://arxiv.org/abs/2402.06827" target="_blank" rel="noopener noreferrer">RAMP ↗</a>
+      <a href="https://arxiv.org/abs/2410.03000" target="_blank" rel="noopener noreferrer">CURE ↗</a>
+    </div>
+  </div>
+  <div class="foundation">
+    <h3 class="research-icon-heading">
+<i aria-hidden="true" class="fas fa-globe"></i><span>Reliability across environments</span>
+</h3>
+    <div class="foundation-links">
+      <a href="https://arxiv.org/abs/2302.05049" target="_blank" rel="noopener noreferrer">Federated domain adaptation ↗</a>
+      <a href="https://arxiv.org/abs/2605.12435" target="_blank" rel="noopener noreferrer">Wildfire prediction ↗</a>
+    </div>
+  </div>
+</footer>
+
+</section>

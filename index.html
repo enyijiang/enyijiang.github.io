@@ -17,6 +17,8 @@ navbar_title: Home
             {% include widgets/appointment_button.html %}
         </div>
 
+        {% include widgets/research_map.html %}
+
         {% if site.data.display.homepage.show_selected_publications %}
         {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
         {% include widgets/featured_research.html publications=pubs %}

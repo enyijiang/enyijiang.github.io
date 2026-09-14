@@ -1,0 +1,8 @@
+<div class="document-links">
+    {% if site.data.profile.cv_link %}
+    <a target="_blank" rel="noopener" href="{{ site.data.profile.cv_link | relative_url }}"><i class="fas fa-file-alt" aria-hidden="true"></i> View CV (PDF) ↗</a>
+    {% endif %}
+    {% if site.data.profile.research_statement_link %}
+    <a target="_blank" rel="noopener" href="{{ site.data.profile.research_statement_link | relative_url }}"><i class="fas fa-file-lines" aria-hidden="true"></i> Research Statement (PDF) ↗</a>
+    {% endif %}
+</div>
