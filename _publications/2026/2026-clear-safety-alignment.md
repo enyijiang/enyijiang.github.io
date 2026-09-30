@@ -2,7 +2,7 @@
 title:          "CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment"
 date:           2026-08-21 00:01:00 +0800
 selected:       true
-pub:            "arXiv preprint"
+pub:            "Trustworthy AI for Good Workshop @ NeurIPS 2026"
 pub_date:       "2026"
 research_question: "If latent risk can be detected, can we intervene only when necessary?"
 summary: "CLEAR uses a hidden-state gate to adjust a safety adapter’s strength, reducing attack success while preserving useful capabilities."
@@ -15,4 +15,5 @@ authors:
   - Sanmi Koyejo
 links:
   Arxiv: https://arxiv.org/abs/2608.21278
+  Workshop: https://trustworthy-ai-for-good.github.io/
 ---

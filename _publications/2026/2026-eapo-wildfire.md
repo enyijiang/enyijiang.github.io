@@ -1,11 +1,11 @@
 ---
-title:          "Environment-Adaptive Preference Optimization for Wildfire Prediction"
+title:          "PyroAdapt: Adapting Wildfire Prediction under Spatial Heterogeneity and Temporal Shift"
 date:           2026-05-12 00:01:00 +0800
 selected:       false
 pub:            "arXiv preprint"
 pub_date:       "2026"
 abstract: >-
-  EAPO predicts rare wildfire events under shifting environmental conditions by retrieving distribution-aligned training data with $k$-NN and combining supervised fine-tuning with preference optimization, reaching 0.7310 ROC-AUC with better detection in extreme regimes.
+  PyroAdapt is a pretrain--retrieve--rank framework for wildfire prediction under spatial heterogeneity and temporal shift. Across California, it raises daily average precision from 21.62% to 24.57% and Top-5% recall from 18.70% to 22.79%; under a fixed daily detection budget, it captures 344 additional positive cell-days and substantially improves recall of the most extreme fires.
 authors:
   - Enyi Jiang
   - Wu Sun

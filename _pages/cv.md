@@ -32,7 +32,7 @@ redirect_from:
 <p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 0.5em 0 0.4em;">If latent risk can be detected, can we intervene only when necessary?</p>
 
 Chengxiao Wang\*, **Enyi Jiang**\*, Xiaojing Liao, Sanmi Koyejo.
-CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. [[Arxiv]](https://arxiv.org/abs/2608.21278)
+CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment. Accepted to the [Trustworthy AI for Good Workshop at NeurIPS 2026](https://trustworthy-ai-for-good.github.io/). [[Arxiv]](https://arxiv.org/abs/2608.21278)
 
 <p style="font-style: italic; color: #5b6470; border-left: 3px solid #b76e79; padding-left: 0.75em; margin: 1.25em 0 0.4em;">Does safe-looking behavior necessarily imply a safe internal model state?</p>
 
