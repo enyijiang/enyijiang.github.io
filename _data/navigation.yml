@@ -5,7 +5,7 @@ pages:
   url: /
 # - name: Home (Layout 2)
 #   url: /index_layout2
-- name: CV
+- name: CV & Resume
   url: /cv/
 - name: Publications
   url: /publications/

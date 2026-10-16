@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "CV"
-navbar_title: CV
+title: "CV & Resume"
+navbar_title: CV & Resume
 content_class: page__content
 permalink: /cv/
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
   - /resume
 ---
 
-# Curriculum Vitae
+# CV & Resume
 
 {% include widgets/document_links.html %}
 
