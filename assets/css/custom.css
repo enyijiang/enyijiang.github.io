@@ -144,5 +144,6 @@ small, .small, .career-date, .research-links { font-size: var(--site-small); }
 .career-item > div { min-width: 0; }
 .institution-logo { width: 36px; height: 36px; object-fit: contain; flex: 0 0 36px; margin-top: 4px; }
 .career-date { color: #6b7280; }
+.career-links { margin-top: 2px; font-size: var(--site-small); }
 .author-link { text-decoration: underline; text-decoration-color: #c4bced; text-underline-offset: 3px; }
 .email-text { overflow-wrap: anywhere; }

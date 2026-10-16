@@ -30,7 +30,7 @@
                 <div class="row small">
                     <div class="col text-center">
                         {% for position in site.data.profile.positions %}
-                        {{ position.name }}<br/>
+                        {% if position.url %}<a target="_blank" rel="noopener" href="{{ position.url }}">{{ position.name }}</a>{% else %}{{ position.name }}{% endif %}<br/>
                         {% endfor %}
                     </div>
                 </div>

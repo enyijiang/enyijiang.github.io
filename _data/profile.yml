@@ -7,6 +7,9 @@ positions:
   logo: /assets/images/uiuc_logo.jpeg  # Logo is optional
 - name: Visiting PhD @ Stanford
   logo: /assets/images/stanford_logo.png 
+- name: Founder @ Inside AI Safety
+  logo: /assets/images/inside_ai_safety_mark.svg
+  url: https://insideaisafety.org/
 
 
 email: "enyij2@illinois.edu"
@@ -30,6 +33,9 @@ short_bio: >-
   </p>
   <p>
     I am a final-year Computer Science Ph.D. candidate at <a href="https://illinois.edu/">UIUC</a>, advised by <a href="https://cs.stanford.edu/~sanmi/index.html">Prof. Sanmi Koyejo</a> and <a href="https://siebelschool.illinois.edu/about/people/faculty/namato">Prof. Nancy Amato</a>, and a visiting researcher at Stanford’s <a href="https://stair.cs.stanford.edu/">Trustworthy AI Research (STAIR) Lab</a>. My broader interests include robustness under distribution shift and applications in climate science and healthcare.
+  </p>
+  <p>
+    I am also the founder of <a href="https://insideaisafety.org/">Inside AI Safety, Inc.</a>, an independent nonprofit research organization advancing AI safety from the inside out through representation-level evaluation, robustness, alignment, and intervention. Learn more on our <a href="https://www.linkedin.com/company/inside-ai-safety/">LinkedIn page</a>.
   </p>
 
 personal_note: >-
@@ -67,6 +73,12 @@ education:
   date: 2016 - 2020
 
 experience:
+- name: Inside AI Safety, Inc.
+  logo: /assets/images/inside_ai_safety_mark.svg
+  position: Founder
+  date: 2026 - present
+  url: https://insideaisafety.org/
+  linkedin: https://www.linkedin.com/company/inside-ai-safety/
 - name: Stanford University
   logo: /assets/images/stanford_logo.png
   position: >- 

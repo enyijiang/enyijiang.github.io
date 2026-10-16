@@ -34,7 +34,7 @@
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
                             {%- endif %}
-                            {{ position.name }}<br/>
+                            {% if position.url %}<a target="_blank" rel="noopener" href="{{ position.url }}">{{ position.name }}</a>{% else %}{{ position.name }}{% endif %}<br/>
                             {% endfor %}
                         </div>
                         <div class="text-profile-bio mt-3" {% if site.data.profile.short_bio_text_justify %}style="text-align: justify;"{% endif %}>
