@@ -135,9 +135,6 @@ h3, h3.h5, h5 { font-size: var(--site-item); line-height: 1.45; font-weight: 400
 small, .small, .career-date, .research-links { font-size: var(--site-small); }
 .section-heading { margin-bottom: 18px; }
 .section-heading i { margin-right: 7px; }
-.academic-opportunities { border-left: 3px solid #6B5FD3; padding: 3px 0 3px 16px; margin: 21px 0; color: #4b465c; }
-.academic-opportunities > strong { display: block; color: #6B5FD3; margin-bottom: 4px; }
-.academic-opportunities p { margin: 0; }
 .document-links { display: flex; flex-wrap: wrap; align-items: center; gap: 12px 22px; }
 .document-links a { display: inline-flex; align-items: center; gap: 7px; }
 .career-item { display: flex; align-items: flex-start; gap: 11px; margin-bottom: 20px; }
