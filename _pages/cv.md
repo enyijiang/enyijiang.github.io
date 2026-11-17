@@ -80,7 +80,7 @@ See the [Publications](/publications/) tab for the full list.
 
 ## Service
 
-Reviewer for NeurIPS, ICLR, ICML, TMLR, CVPR, ECCV, AAAI, AISTATS, COLM, and TPAMI.
+Reviewer for NeurIPS, ICLR, ICML, TMLR, CVPR, ECCV, AAAI, AISTATS, COLM, TPAMI, and IJCV.
 
 ## Mentoring
 Shardul Marathe (Undergrad @ Stanford CS)
