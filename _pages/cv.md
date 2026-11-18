@@ -83,18 +83,9 @@ See the [Publications](/publications/) tab for the full list.
 Reviewer for NeurIPS, ICLR, ICML, TMLR, CVPR, ECCV, AAAI, AISTATS, COLM, TPAMI, and IJCV.
 
 ## Mentoring
-Shardul Marathe (Undergrad @ Stanford CS)
 
-Hanwen Zhang (MCS @ UIUC CS)
+{% include widgets/mentored_students.html %}
 
-David Shu Cheung (Undergrad @ UIUC CS -> MS @ UIUC CS)
-
-Sunwoo Baek (MCS @ UIUC CS)
-
-Nischay Singh (Undergrad @ UIUC CS)
-
-Skye Qiu (Undergrad @ UIUC CS+STAT -> MCS @ UIUC CS)
-  
 ## Miscellaneous
 
 My favorite quote: **Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will. (Romans 12:2 NIV)**

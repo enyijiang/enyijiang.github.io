@@ -30,6 +30,13 @@ navbar_title: Home
             {% include widgets/experience_card.html %}
         {% endif %}
 
+        <section id="mentoring" class="card border-0 shadow-sm bg-white my-3" aria-labelledby="mentoring-heading">
+            <div class="card-body p-4">
+                <h2 class="section-heading" id="mentoring-heading">Mentoring</h2>
+                {% include widgets/mentored_students.html %}
+            </div>
+        </section>
+
         {% if site.data.display.homepage.show_news %}
         {% assign count_news = site.news | size %}
         {% if count_news > 0 %}
