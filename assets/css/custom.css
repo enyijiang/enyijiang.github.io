@@ -143,4 +143,64 @@ small, .small, .career-date, .research-links { font-size: var(--site-small); }
 .career-date { color: #6b7280; }
 .career-links { margin-top: 2px; font-size: var(--site-small); }
 .author-link { text-decoration: underline; text-decoration-color: #c4bced; text-underline-offset: 3px; }
+
+/* Personal writing uses the shared palette with a quieter reading layout. */
+.misc-page {
+  max-width: 50rem;
+  margin: 2.25rem auto 4rem;
+}
+.misc-intro { margin-bottom: 2.5rem; }
+.misc-eyebrow {
+  color: #79515b;
+  font-size: var(--site-small);
+  letter-spacing: 0.06em;
+  margin-bottom: 0.65rem;
+}
+.misc-page h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.misc-description { max-width: 36rem; margin-bottom: 0; }
+.misc-section + .misc-section { margin-top: 2.5rem; }
+.misc-page .misc-section-heading {
+  font-family: inherit;
+  font-size: var(--site-section);
+  font-weight: 400;
+  margin-bottom: 1rem;
+}
+.misc-story {
+  padding: 2rem 0;
+  border-top: 1px solid #ded9e7;
+  border-bottom: 1px solid #ded9e7;
+}
+.misc-story-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem 0.6rem;
+  color: #6b7280;
+  font-size: var(--site-small);
+  margin-bottom: 1.2rem;
+}
+.misc-story-title-link,
+.misc-story-title-link:visited { display: block; color: #1f2937; }
+.misc-story-title-link:hover,
+.misc-story-title-link:focus { color: #4f46c8; text-decoration: none; }
+.misc-story h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  margin-bottom: 1.2rem;
+  overflow-wrap: break-word;
+}
+.misc-story-excerpt { max-width: 43rem; margin-bottom: 1.5rem; }
+.misc-read-link { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.4rem 0; }
+@media (max-width: 575.98px) {
+  .misc-page { margin-top: 1.5rem; margin-bottom: 2rem; }
+  .misc-intro { margin-bottom: 2rem; }
+  .misc-page h1 { font-size: 1.75rem; }
+  .misc-story h3 { font-size: 1.3rem; }
+  .misc-story { padding: 1.5rem 0; }
+}
 .email-text { overflow-wrap: anywhere; }
