@@ -163,6 +163,8 @@ small, .small, .career-date, .research-links { font-size: var(--site-small); }
 }
 .misc-description { max-width: 36rem; margin-bottom: 0; }
 .misc-section + .misc-section { margin-top: 2.5rem; }
+.misc-principles { max-width: 43rem; padding-left: 1.25rem; }
+.misc-principles li + li { margin-top: 0.65rem; }
 .misc-page .misc-section-heading {
   font-family: inherit;
   font-size: var(--site-section);
